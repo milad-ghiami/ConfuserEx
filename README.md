@@ -1,3 +1,7 @@
+Hepl 
+========
+https://www.codeproject.com/Articles/1139773/Protect-Your-Source-Code-from-Decompiling-or-Rever
+
 ConfuserEx
 ========
 ConfuserEx is a open-source protector for .NET applications.
